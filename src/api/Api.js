@@ -1,5 +1,5 @@
 import Http from './Http';
-const API_URL = 'http://demo6245587.mockable.io';
+const API_URL = 'https://demo6245587.mockable.io';
 
 export const Structure = {
   async fetch(data) {
